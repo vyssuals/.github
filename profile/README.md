@@ -1,4 +1,4 @@
-# Welcome to Vyssuals
+# 👋 Welcome to Vyssuals 🌈
 This is the organization page for the Vyssuals open source project.
 
 ## The Challenge
